@@ -30,13 +30,13 @@ Have installed on your computer MATLAB, STM32ST-Link, waijung for programming ST
 You can have the PBC fields in the Design folder in PDF format, as can see in the next figure:
 
 <p align="center">
-  <img src="images/PCB.PNG">
+  <img src="Images/PCB.PNG">
 </p>
 
 The schematic the following figure is in the Design folder.
 
 <p align="center">
-  <img src="images/Schematic.PNG">
+  <img src="Images/Schematic.PNG">
 </p>
 
 ## 3. Description
@@ -90,7 +90,7 @@ This program simulates the control of Brushless motor with PID and SMC controls.
 </p>
 
 <p align="center">
-  <img src="images/PIDvsSMC.png">
+  <img src="Images/PIDvsSMC.png">
 </p>
 
 <p align="justify">
@@ -112,7 +112,7 @@ And this program shows the reference vs velocity of motor signals, and the contr
 The figure shows the results of this project:
 
 <p align="center">
-  <img src="images/results.png">
+  <img src="Images/results.png">
 </p>
 
 ## 6. Contact with me
