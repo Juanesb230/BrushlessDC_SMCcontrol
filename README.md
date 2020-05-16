@@ -61,9 +61,7 @@ The Table shows the connection pines of STM32.
 | C0 | Potenciometer (velocity reference) |
 | PD8/PD9 | UART Serial comunication |
 
-It is very important to know the ignition sequence of the different motor coils.
-
-The following Table you can see the ignition sequence of Brushless motor that I use it.
+It is very important to know the ignition sequence of the different motor coils.The following Table you can see the ignition sequence of Brushless motor that I use it.
 </p>
 
 | Hall Sensor coil A |  Hall sensor coil B | Hall sensor coil C | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 |
