@@ -7,7 +7,7 @@
 Have installed on your computer MATLAB, STM32ST-Link, waijung for programming STM32 in MATLAB.
 </p>
 
-## 2. Material used
+## 2. Materials used
 
 -Mosfets
 
@@ -92,7 +92,7 @@ This program simulates the control of Brushless motor with PID and SMC controls.
 </p>
 
 <p align="justify">
-The SMC control has less settling time than the PI and overlays. For that advantages I design a SMC control.
+The SMC control has less settling time and overlays than the PI. For that advantages I design a SMC control.
 </p>
 
 ## 5. Results
@@ -103,7 +103,7 @@ The next field has the program of STM32F4, to burn this program you must have th
 
     bici_v2.slx  
 
-And this program shows the reference vs velocity of motor signals, and the control signal:
+And this program shows the reference vs velocity of motor signals and the control signal, this program is comunicate with STM32F4 with MATLAB by using UART serial communication:
 
     comunicacion.slx
 
