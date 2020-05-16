@@ -90,7 +90,7 @@ This program simulates the control of Brushless motor with PID and SMC controls.
 </p>
 
 <p align="center">
-  <img src="Images/PIDvsSMC.png">
+  <img src="Images/PIDvsSMC.PNG">
 </p>
 
 <p align="justify">
@@ -112,7 +112,7 @@ And this program shows the reference vs velocity of motor signals, and the contr
 The figure shows the results of this project:
 
 <p align="center">
-  <img src="Images/results.png">
+  <img src="Images/results.PNG">
 </p>
 
 ## 6. Contact with me
