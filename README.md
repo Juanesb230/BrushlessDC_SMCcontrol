@@ -104,7 +104,7 @@ The next field has the program of STM32F4, to burn this program you must have th
     bici_v2.slx  
 
 <p align="justify">
-And this program shows the reference vs velocity of motor signals and the control signal, this program is comunicate with STM32F4 with MATLAB by using UART serial communication:
+And this program shows the reference vs speed motor signals and the control signal, this program is comunicate with STM32F4 with MATLAB by using UART serial communication:
 </p>
 
     comunicacion.slx
