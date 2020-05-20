@@ -42,7 +42,7 @@ The schematic the following figure is in the Design folder.
 ## 3. Description
 
 <p align="justify">
-The STM32F4 have the SMC velocity control, this microcontroller recives the Hall efect sensors signals of motor Brushless and the digital value of optical encoder and sends PWM signals to inversor.
+The STM32F4 has the SMC speed control, this microcontroller recives the Hall efect sensors signals of motor Brushless and the digital value of optical encoder and sends PWM signals to inversor.
 
 The Table shows the connection pines of STM32.
 
